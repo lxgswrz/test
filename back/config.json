@@ -1,0 +1,13 @@
+{
+  "port": 8080,
+  "database": {
+    "type": "sqlite",
+    "name": "comments.db",
+    "username": "",
+    "password": ""
+  },
+  "cors_origins": [
+    "http://localhost:3000"
+  ],
+  "debug_mode": true
+}
